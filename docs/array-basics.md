@@ -32,3 +32,6 @@ range_array = np.arange(5)
 logspace_array = np.logspace(0,2,6)  
 
 
+Check out the code below 👇 
+
+[Numpy Array Code](https://github.com/AlgebraicAI-Infinity/Numpy-Arrays/blob/main/code/array-basic.py)
